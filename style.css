@@ -15,8 +15,8 @@ padding: 0;
 
 .conteudo-principal{
     background-image:url("./img/Print-Netflix-logo-marca.jpg") ;
-    background-repeat:no-repeat ;
-    background-size: cover;
+    background-repeat:no-repeat;
+    background-size: 200% 200%;
 }
 .imagem-principal{
     width: 120px;
