@@ -17,7 +17,9 @@ padding: 0;
     background-image:url("./img/Print-Netflix-logo-marca.jpg") ;
     background-repeat:no-repeat ;
 }
-
+.imagem-principal{
+    width: 120px;
+}
 .container{
     height: 100vh;
 }
