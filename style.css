@@ -20,7 +20,9 @@ padding: 0;
 .conteudo-principal{
     background-image:url("./img/Print-Netflix-logo-marca.jpg") ;
     background-repeat:no-repeat;
-    background-size:cover;
+    text-align: center;
+    background-size: contain;
+    align-items: center;
 }
 
 .container{
@@ -36,6 +38,7 @@ padding: 0;
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao__secundario{
@@ -56,4 +59,8 @@ padding: 0;
 .container__imagem{
     margin:1em 0 2em 0;
     width: 120px;
+}
+
+.container__caixa{
+    margin: 0 6em;
 }
